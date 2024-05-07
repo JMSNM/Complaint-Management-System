@@ -3,9 +3,13 @@
 **Instructor: Mr. Usama Arshad Janjua**
 
 **Junaid Saleem –2022243**
+
 **Muhammad Taimoor – 2022680**
+
 **Muneeb Bin Nasir – 2022463**
+
 **Hamza Faraz - 2022661**
+
 
 **Introduction**
 The Application Management System (AMS) developed by our team is a GUI-based application designed to facilitate efficient communication between students and teachers. It consists of two interfaces—a student login and a teacher login—providing specific functionalities tailored to their respective roles.
